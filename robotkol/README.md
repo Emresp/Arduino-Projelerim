@@ -11,7 +11,7 @@ Aşağıdaki görselde projenin tamamlanmış fiziksel kurulumunu ve arka planda
 ## 🛠️ Kullanılan Donanımlar
 
 * **Mekanik İskelet:** Rex Discovery Serisi Pleksi Robot Kol
-* **Kontrolcü Kart:** Arduino / ESP Serisi Geliştirme Kartı
+* **Kontrolcü Kart:** Arduino Serisi Geliştirme Kartı
 * **Eyleyiciler:** 4 Adet Servo Motor (Taban, Omuz, Dirsek ve Tutucu/Gripper için)
 * **Güç Kaynağı:** Harici Pil Kutusu (Servo motorların anlık akım çekimlerinde kartı resetlememesi ve stabil çalışması için harici besleme kullanılmıştır.)
 * **Diğer:** Breadboard ve Jumper Kablolar
