@@ -33,7 +33,7 @@ Ağa bağlandıktan sonra Arduino IDE **Seri Port Ekranını (115200 baud rate)*
 ## 🛠️ Kullanılan Donanımlar
 
 * **Mekanik İskelet:** Rex Discovery Serisi Pleksi Robot Kol
-* **Kontrolcü Kart:** Wi-Fi Destekli Geliştirme Kartı (ESP32, ESP8266 veya muadili)
+* **Kontrolcü Kart:** Wi-Fi Destekli Geliştirme Kartı Arduino Giga
 * **Eyleyiciler:** 4 Adet Servo Motor 
 * **Güç Kaynağı:** Harici Pil Kutusu (Servo motorların anlık akım çekimlerinde kartı resetlememesi ve stabil çalışması için harici besleme kullanılmıştır.)
 * **Diğer:** Breadboard ve Jumper Kablolar
